@@ -1,0 +1,17 @@
+/* CSS pour la version du site qui est en anglais */
+
+.english {
+
+}
+
+#btn-en {
+    text-decoration: underline;
+}
+
+.francais {
+    display: none;
+}
+
+#btn-fr {
+    text-decoration: none;
+}
