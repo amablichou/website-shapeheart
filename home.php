@@ -34,7 +34,7 @@
     <!-- Header -->
     <header id="top" class="header">
         <video autoplay="true" loop="" class="fillWidth fadeIn wow collapse in" data-wow-delay="0.5s" poster="img/background_video.png" id="background_video">
-            <source src="video/video.mkv" type="video/mp4">
+            <source src="video/video-anim.mov" type="video/mp4">
             <span class="english">Your browser does not support the video tag. I suggest you upgrade your browser.</span>
             <span class="francais">Votre navigateur ne supporte pas la lecture de cette video.</span>
         </video>
